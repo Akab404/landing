@@ -1,0 +1,21 @@
+.card-grafik {
+  width: 25%;
+  text-align: center;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.card-grafik > img {
+  width: 70%;
+  margin: 0 auto;
+  padding-bottom: 24px;
+}
+.cards_section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 64px;
+}
+
+.card-grafik p {
+  color: rgba(0, 0, 0, 0.5);
+}
